@@ -1,0 +1,7 @@
+{
+  "name": "cs-back-button-quirk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
